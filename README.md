@@ -1,5 +1,5 @@
-#  Hi!:
-I’m Nik, a Computer Science sophomore at Fordham University, fluent in both English and Mandarin. Born and raised in Beijing with a Taiwanese American background, I bring a cross-cultural perspective to creative problem-solving and innovation.<br><br>I’m passionate about building in fast-paced, early-stage environments where impact and learning go hand in hand. I’m always eager to deepen my technical expertise and take on new challenges.<br><br>🔭 I’m currently working on AI agent infra project<br><br>🌱 I’m currently trying to improve my prompt engineering.<br><br>📫 How to reach me ntanner@fordham.edu<br><br>
+#  Hi!!
+I’m Nik, a Computer Science junior at Fordham University, fluent in both English and Mandarin. Born and raised in Beijing with a Taiwanese American background, I bring a cross-cultural perspective to creative problem-solving and innovation.<br><br>I’m passionate about building in fast-paced, early-stage environments where impact and learning go hand in hand. I’m always eager to deepen my technical expertise and take on new challenges.<br><br>🔭 I’m currently working on AI agent infra project<br><br>🌱 I’m currently trying to improve my prompt engineering.<br><br>📫 How to reach me ntanner@fordham.edu<br><br>
 
 
 ## 🌐 Socials:
