@@ -1,6 +1,10 @@
 ## Hi, I’m Nik 
 
-I’m a junior studying **Computer Science** at Fordham University, born and raised in **Beijing** with a **Taiwanese American** background.
+I’m a junior studying **Computer Science** at Fordham University. 
+
+I was born and raised in Beijing, and am Taiwanese American. 
+
+My sole focus right now is to build something people want. 
 
 
 - 🔭 Currently working on identifying meaningful problems to solve
