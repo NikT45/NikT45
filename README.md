@@ -6,7 +6,6 @@ I was born and raised in Beijing, and am Taiwanese American.
 
 My sole focus right now is to build something people want. 
 
-Email: ntanner2@fordham.edu
 
 
 
