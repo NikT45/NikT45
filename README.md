@@ -2,7 +2,7 @@
 
 I’m a junior studying **Computer Science** at Fordham University. 
 
-I was born and raised in Beijing, and am Taiwanese American. 
+I'm Taiwanese American and was born and raised in Beijing.
 
 My sole focus right now is to build something people want. 
 
