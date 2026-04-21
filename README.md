@@ -1,5 +1,10 @@
 Hello, I'm Nik! I'm Taiwanese American, grew up in Beijing, and now a junior Computer Science student at Fordham. I love building and turning ideas into real products, and I spend a lot of my time hacking on side projects, competing in hackathons, and experimenting with new tools and technologies.
 
+webapps i've built:
+useinly.com - not great 
+crestnotes.com 
+tastidesign.com
+
 
 
 
