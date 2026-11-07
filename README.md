@@ -2,6 +2,10 @@ Hello, I'm Nik! I'm Taiwanese American, grew up in Beijing, and now a junior Com
 
 some things i've built:
 
+usenimbit.com
+
+bondcouples.com
+
 crestnotes.com 
 
 tastidesign.com
